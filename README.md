@@ -6,3 +6,5 @@ This is getting out of hand.
 
 isdfsdnfldsflsdf
 Nik is special.
+
+this link solve the first problem numerically in a weird way: https://www.physics.uoguelph.ca/~jdavis/phys2460/labs/laplace.pdf
